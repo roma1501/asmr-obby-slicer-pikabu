@@ -114,7 +114,7 @@ const GameData = {
         { id: 'skin_knight', name: { ru: 'Рыцарь', en: 'Knight' }, rarity: 'epic', look: { skin: '#f0c8a0', shirt: '#9aa4ad', pants: '#6b737b', armsLower: '#9aa4ad', face: 'smile', details: ['armor', 'shoulder'] } },
         { id: 'skin_pirate', name: { ru: 'Пират', en: 'Pirate' }, rarity: 'rare', look: { skin: '#f0c08a', shirt: '#f2efe6', pants: '#2c2a33', waist: '#7a3dd6', face: 'grin', details: ['belt'] } },
         { id: 'skin_robot', name: { ru: 'Робот', en: 'Robot' }, rarity: 'epic', look: { skin: '#b8c2cc', shirt: '#7d8a96', pants: '#55606b', armsLower: '#b8c2cc', face: 'robot', details: ['jetpack'] } },
-        { id: 'skin_zombie', name: { ru: 'Зомби', en: 'Zombie' }, rarity: 'rare', look: { skin: '#7fbf5a', shirt: '#3d6e9e', pants: '#6e4b2e', armsLower: '#7fbf5a', face: 'zombie' } },
+        { id: 'skin_zombie', name: { ru: 'Кукла-монстрик', en: 'Toy Monster' }, rarity: 'rare', look: { skin: '#c9b6ff', shirt: '#ffd23f', pants: '#2fb6a9', armsLower: '#c9b6ff', face: 'surprised' } },   // игрушка, не зомби (без зелёной кожи и голубой рубашки)
         { id: 'skin_astro', name: { ru: 'Космонавт', en: 'Astronaut' }, rarity: 'epic', look: { skin: '#f2f2f2', shirt: '#f2f2f2', pants: '#e2e6ea', waist: '#ff8a1f', face: 'cool', details: ['jetpack'] } },
         { id: 'skin_hero', name: { ru: 'Супергерой', en: 'Superhero' }, rarity: 'rare', look: { skin: '#f3c99d', shirt: '#2457d6', pants: '#2457d6', waist: '#e8c21f', legsLower: '#e8c21f', face: 'happy', details: ['cape'] } },
         { id: 'skin_police', name: { ru: 'Полицейский', en: 'Cop' }, rarity: 'common', look: { skin: '#e9b98f', shirt: '#24345c', pants: '#1a1a22', face: 'smile', details: ['tie'] } },
